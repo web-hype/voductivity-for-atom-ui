@@ -1,16 +1,17 @@
 {
-  "name": "one-dark-ui",
+  "name": "voductivity-for-atom-ui",
   "theme": "ui",
-  "version": "1.12.3",
-  "description": "Atom One dark UI theme",
+  "version": "1.0.0",
+  "description": "Semi-transparent dark theme for use with the Voductivity package. Forked from One dark UI theme",
   "keywords": [
     "dark",
     "adaptive",
-    "ui"
+    "ui",
+    "voductivity"
   ],
   "license": "MIT",
-  "repository": "https://github.com/atom/one-dark-ui",
-  "main": "lib/main",
+  "repository": "https://github.com/web-hype/voductivity-for-atom-ui",
+  "main": "lib/voductivity_main",
   "engines": {
     "atom": ">0.40.0"
   },
